@@ -9,7 +9,9 @@
 - Bootstrap 4
 - Animate.css
 
-### Boilerplate-2019_B4 | kLOsk 🐙 | Popsi 😺
+### Boilerplate-2019_B4
+
+kLOsk 🐙 | Popsi 😺
 
 ```
   git clone https://github.com/Xavier-M1r643/Boilerplate-2019_B4 mon-app
