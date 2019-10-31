@@ -19,12 +19,12 @@ kLOsk 🐙 | Popsi 😺
   npm install
 ```
 
-Developement watch :
+Développement [watch] :
 ```
   npm run watch
 ```
 
-Production build :
+Production [build] :
 ```
   npm run build
 ```
