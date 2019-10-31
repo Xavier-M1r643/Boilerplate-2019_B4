@@ -14,12 +14,12 @@
     "url": "git+https://github.com/Xavier-M1r643/Boilerplate-2019_B4.git"
   },
   "keywords": [],
-  "author": "AXM-DVR",
+  "author": "Xavier-M1r643",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/AXM-DVR/Boilerplate-2019_B4/issues"
+    "url": "https://github.com/Xavier-M1r643/Boilerplate-2019_B4/issues"
   },
-  "homepage": "https://github.com/AXM-DVR/Boilerplate-2019_B4#readme",
+  "homepage": "https://github.com/Xavier-M1r643/Boilerplate-2019_B4#readme",
   "devDependencies": {
     "@babel/core": "^7.6.4",
     "@babel/preset-env": "^7.6.3",
