@@ -1,6 +1,6 @@
-# Boilerplate 2019 (Bootstrap 4)
+# HTML5 Boilerstrap 2019
 
-## Avec les technologies suivantes :
+## Technologies :
 - Babel
 - Sass
 - Webpack
@@ -9,9 +9,8 @@
 - Bootstrap 4
 - Animate.css
 
-### HTML5 Boilerplate | Modernizr.
+### Boilerplate-2019_B4 | kLOsk 🐙 | Popsi 😺
 
-Boilerplate-2019_B4 | kLOsk 🐙 | Popsi 😺
 ```
   git clone https://github.com/Xavier-M1r643/Boilerplate-2019_B4 mon-app
   cd mon-app
